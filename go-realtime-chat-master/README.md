@@ -1,5 +1,4 @@
 #Hi
-#A Chat System In Golang
 
 This is a simple chat web app written in Go
 
